@@ -19,7 +19,7 @@ Cada problema resolvido durante o treinamento está organizado em seu próprio d
 ### Exemplos de Diretórios
 
 ```plaintext
-/
+/Problems
 ├── problema1/
 │   ├── main.cpp
 ├── problema2/
